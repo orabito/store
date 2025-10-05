@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946414910359",
+    "project_id": "store-e438e",
+    "storage_bucket": "store-e438e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946414910359:android:8f34b06d8ab6eb9396e2d2",
+        "android_client_info": {
+          "package_name": "com.example.chatat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVZwJi3NRVOwGk-ttp_1bdy3QLPfX5bfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
